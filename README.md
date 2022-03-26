@@ -30,3 +30,6 @@ THEN the password is either displayed in an alert or written to the page
 Screenshot that I have provided below using Snipping Tool
 
 ![Screenshot](./assets/Screenshot.JPG)
+
+
+LINK TO DEPLOYED APPLICATION: [CLICK HERE](https://csareyj.github.io/Password-Generator/)
